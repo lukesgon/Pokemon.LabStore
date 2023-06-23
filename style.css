@@ -1,0 +1,45 @@
+.pokemon {
+font-style: italic;
+font-weight: bold;
+color: #ebebeb;
+background-color: #da4735;
+margin: 24px 12px 24px 24px;
+padding: 24px;
+border-radius: 24px;
+}
+
+.conteudo-centralizado {
+    justify-content: center;
+}
+
+.regions {
+    font-style: italic;
+}
+
+.pokemonimg {
+    height: 200px; 
+    width: 200px;
+    background-color: #ebebeb;
+    border-radius: 24px;
+    margin-top: -15px;
+}
+
+.custom-margin-right {
+    margin-right: 0;
+}
+
+.texto-centralizado {
+    text-align: center;
+    position: relative;
+}
+
+.compre {
+    background-color:#424b49;
+    border-radius: 6px;
+    color:#ebebeb;
+    font-weight: bold;
+    box-shadow: none !important;
+    outline: none !important;
+    margin: 16px 0 5px -10px;
+    padding: 0 35px 0 35px;
+}
